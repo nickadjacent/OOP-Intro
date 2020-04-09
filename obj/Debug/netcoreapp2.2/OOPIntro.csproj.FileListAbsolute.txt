@@ -1,0 +1,11 @@
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/bin/Debug/netcoreapp2.2/OOPIntro.deps.json
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/bin/Debug/netcoreapp2.2/OOPIntro.runtimeconfig.json
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/bin/Debug/netcoreapp2.2/OOPIntro.runtimeconfig.dev.json
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/bin/Debug/netcoreapp2.2/OOPIntro.dll
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/bin/Debug/netcoreapp2.2/OOPIntro.pdb
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/obj/Debug/netcoreapp2.2/OOPIntro.csprojAssemblyReference.cache
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/obj/Debug/netcoreapp2.2/OOPIntro.csproj.CoreCompileInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/obj/Debug/netcoreapp2.2/OOPIntro.AssemblyInfoInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/obj/Debug/netcoreapp2.2/OOPIntro.AssemblyInfo.cs
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/obj/Debug/netcoreapp2.2/OOPIntro.dll
+/Users/cthulhu/Documents/Dojo/C#/OOP/OOPIntro/obj/Debug/netcoreapp2.2/OOPIntro.pdb
